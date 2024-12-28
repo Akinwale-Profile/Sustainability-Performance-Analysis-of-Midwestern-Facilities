@@ -1,4 +1,6 @@
 
+![Screenshot (188)](https://github.com/user-attachments/assets/d31703c3-1761-4dab-9e5f-24bc84c748f6)
+
 ## Problem Statement
 
 The Midwestern United States is home to numerous industrial facilities that play a critical role in sustainability efforts, including waste management, recycling, and energy recovery. Despite significant progress in some areas, the region faces challenges such as:
